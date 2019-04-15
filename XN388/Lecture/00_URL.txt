@@ -1,0 +1,60 @@
+＜URL集＞
+
+1章-15 IBM cloud
+http://cloud.ibm.com
+
+
+デモサイト
+1章-20　Speech to Text
+https://speech-to-text-demo.mybluemix.net/
+
+1章-24　Text to Speech
+https://text-to-speech-demo.mybluemix.net/
+
+1章-26　Visual Recognition
+http://visual-recognition-demo.mybluemix.net/
+
+1章-27　Personality Insights
+http://personality-insights-livedemo.mybluemix.net/
+
+1章-28　Language Translator
+https://language-translator-demo.mybluemix.net/
+
+1章-30　NLC(Natural Language Classifier)
+https://natural-language-classifier-demo.mybluemix.net/
+
+＊NLC 日本語　ニュース分類
+https://cogxxdemo.mybluemix.net/nlc
+
+1章-32　NLU(Natural Language Understanding)
+http://natural-language-understanding-demo.ng.bluemix.net/
+
+1章-34  Discovery News
+http://discovery-news-demo.ng.bluemix.net
+
+1章-36　Watson Assistant
+https://watson-conversation-duo-dev.ng.bluemix.net/
+
+1章-37 ライトプランについて
+https://www.ibm.com/cloud-computing/jp/ja/bluemix/lite-account/
+
+2章-3  IBM Watson 活用例
+https://www.ibm.com/watson/jp-ja
+
+＊日本航空株式会社様　マカナちゃん
+https://www.jal.co.jp/inter/makana/
+
+＊教えて　ラガマルくん
+https://www.ibm.com/watson/jp-ja/meets-rugby/
+
+2章-18 IBM Developer　　
+https://developer.ibm.com/jp/
+
+2章-18  YouTube上のIBM Watsonチャンネル　　
+https://www.youtube.com/user/IBMWatsonSolutions
+
+2章-18　IBM Watson Blog (英語)　　
+https://developer.ibm.com/watson/blog/
+
+2章-18 Watson webinars（英語）　
+https://www.ibm.com/watson/webinars/
