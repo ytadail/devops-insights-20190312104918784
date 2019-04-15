@@ -1,0 +1,2 @@
+msg.payload = msg.speech;
+return msg;

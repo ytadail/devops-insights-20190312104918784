@@ -1,0 +1,4 @@
+<audio controls autoplay>
+  <source src="/tts/audio?text={{text}} この写真は{{result.images.0.classifiers.0.classes.0.class}}です" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>

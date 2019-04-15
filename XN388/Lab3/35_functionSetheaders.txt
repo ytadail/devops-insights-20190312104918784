@@ -1,0 +1,10 @@
+var wavFileName=msg.text.replace(' ','_');
+if(wavFileName.length > 32) {
+    wavFileName=wavFileName.substr(0, 32);
+}
+var attch
+='attachment; filename='+encodeURIComponent(wavFileName +'.wav');
+msg.headers={ 'Content-Type': 'audio/wav',
+              'Content-Disposition': attch};
+
+return msg;
