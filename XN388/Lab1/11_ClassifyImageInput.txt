@@ -1,0 +1,7 @@
+<title>Visual Recognition</title>
+<h1>Classify Images by Visual Recognition </h1>
+<h2>判別したい画像URLを入れてください。(jpg,png)</h2>
+<form action="image" method="post">
+image URL<input type="text" name="url" size="60">
+<input type="submit">
+</form>

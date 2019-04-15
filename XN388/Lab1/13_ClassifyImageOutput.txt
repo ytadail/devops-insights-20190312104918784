@@ -1,0 +1,16 @@
+<title>result</title>
+{{#result}}
+  {{#images}}
+  <img src="{{source_url}}" width="320">
+  <table>
+    {{#classifiers}}
+      {{#classes}}
+      <tr>
+        <td> {{class}} </td>
+        <td> {{score}} </td>
+      </tr>
+      {{/classes}}
+    {{/classifiers}}
+  </table>
+  {{/images}}
+{{/result}}

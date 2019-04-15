@@ -1,0 +1,42 @@
+<h1>Detect Faces by Visual Recognition</h1>
+<title>result</title>
+{{#result}}
+    {{#images}}
+        <div><img src="{{source_url}}" height='300'/></div><br>
+    {{#faces}}
+        <br><b>Age</b>
+        <table border='1'>
+            <thead>
+                <tr><th>Max</th><th>Min</th><th>Score</th></tr>
+            </thead>
+            <tbody>
+                {{#age}}
+                    <tr><td>{{max}}</td><td>{{min}}</td><td>{{score}}</td></tr>
+                {{/age}}
+            </tbody>
+        </table>
+        <br><b>Gender</b>
+        <table border='1'>
+            <thead>
+                <tr><th>Gender</th><th>Score</th></tr>
+            </thead>
+            <tbody>
+                {{#gender}}
+                    <tr><td>{{gender}}</td><td>{{score}}</td></tr>
+                {{/gender}}
+            </tbody>
+        </table>
+        <br><b>Name</b>
+        <table border='1'>
+            <thead>
+                <tr><th>Name</th><th>Score</th></tr>
+            </thead>
+            <tbody>
+                {{#identity}}
+                    <tr><td>{{name}}</td><td>{{score}}</td></tr>
+                {{/identity}}
+            </tbody>
+        </table>
+    {{/faces}}
+    {{/images}}
+{{/result}}
